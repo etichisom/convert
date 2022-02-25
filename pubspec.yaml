@@ -34,6 +34,7 @@ dependencies:
   flutter_svg:
   google_fonts: ^2.0.0
   provider:
+  http:
   flutter:
     sdk: flutter
 
